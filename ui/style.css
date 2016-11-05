@@ -5,14 +5,14 @@
      padding-left: 20px;
     padding-right: 20px;
  background-image: url("pic.jpg");
- background-color: yellow;
+ 
 
 }
 
 .center {
     text-align: center;
    color:brown; 
-    text-shadow: 2px 2px #ff0000;
+    text-shadow: 2px 2px red;
 }
 
 .text-big {
