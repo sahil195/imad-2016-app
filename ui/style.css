@@ -30,13 +30,13 @@
  
   
 .container{
-    height: 1200px;
+    
      background-color: white;
     max-width: 1500px;
     margin:0 auto;
     color:black;
     font:sans-serif;
-    
+    padding-top:60px;
     padding-left: 20px;
     padding-right: 20px;
 }
