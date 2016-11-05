@@ -13,12 +13,13 @@
 .center {
     text-align: center;
    color:red; 
-   text-decoration:blink;
+   
    ;
 }
 
 .text-big {
     font-size: 700%;
+    text-decoration:blink;
 }
 
 .bold {
