@@ -23,9 +23,10 @@ body {
  
   
 .container{
+     background-color: red;
     max-width: 800px;
     margin:0 auto;
-    color:red;
+    color:black;
     font:sans-serif;
     padding-top: 60px;
     padding-left: 20px;
