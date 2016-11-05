@@ -18,14 +18,14 @@
 
 .img-medium {
     height: 1200px;
-    width :1200px;
+    width :1500px;
 }
 
  
   
 .container{
      background-color: red;
-    max-width: 1000px;
+    max-width: 1500px;
     margin:0 auto;
     color:black;
     font:sans-serif;
