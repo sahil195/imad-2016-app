@@ -16,6 +16,10 @@
 .two{
  text-align: center;
    color:lightgreen; 
+    background: lightgreen;
+  background: -webkit-linear-gradient(#648880, #293f50);
+  background:    -moz-linear-gradient(#648880, #293f50);
+  background:         linear
 
 }
 
