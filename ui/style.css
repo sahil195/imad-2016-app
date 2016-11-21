@@ -24,12 +24,12 @@
 
 .panel2 {
     display: inline-block;
-    min-height: 210;
+    min-height: 510;
     height: 120px;
     box-shadow:0px 0px 5px 5px #C9C9C9;
     width:2000;
     margin: 10px;
-    padding-left: 50px;
+    padding-left: 10px;
     padding-right: 20px;
     min-width: 510px;
     background: #eeeeee;
