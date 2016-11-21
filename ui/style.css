@@ -4,10 +4,26 @@
     padding-top: 60px;
     padding-left: 20px;
     padding-right: 20px;
-    
+   background: #eeeeee;
+}
+
+.panel {
+    display: inline-block;
+    background: #ffffff;
+    min-height: 100px;
+    height: 100px;
+    box-shadow:0px 0px 5px 5px #C9C9C9;
    
+    margin: 10px;
     
-  
+}
+.panel1 {
+    min-width: 100px;
+    width: 100px;
+}
+.panel2 {
+    min-width: 245px;
+    width: 245px;
 }
 
 
