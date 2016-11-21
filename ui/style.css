@@ -7,7 +7,7 @@
    background: #eeeeee;
 }
 
-.panel {
+.panel1 {
     display: inline-block;
     background: #ffffff;
     min-height: 100px;
@@ -17,10 +17,7 @@
     margin: 10px;
     
 }
-.panel1 {
-    min-width: 1500px;
-    width: 1500px;
-}
+
 .panel2 {
     min-width: 245px;
     width: 245px;
