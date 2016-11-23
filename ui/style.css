@@ -15,7 +15,7 @@
     display: inline-block;
     min-height: 210px;
     height: 200px;
-    box-shadow:0px 0px 5px 5px #C9C9C9;
+    box-shadow:0px 0px 2px 2px #C9C9C9;
     width:2000;
     min-width: 1280px;
     margin: 10px;
@@ -46,9 +46,9 @@
 }
 
 .text-big {
-    font-size: 950%;
+    font-size: 500%;
     text-decoration:blink;
-    text-shadow:4px 4px 8px blue;
+    text-shadow:4px 4px 8px black;
 }
 
 .bold {
