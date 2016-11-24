@@ -2,12 +2,12 @@
 .one{
     font-family: comic;
    
-   
+    background-color:lightgreen;
     padding-left: 20px;
     padding-right: 20px;
     
     background-image:url("webimg.jpg");
-    background-color:lightgreen;
+   
   
 
 
