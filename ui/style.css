@@ -86,6 +86,8 @@
    ;
 }
 
+    
+
 .text-big {
     font-size: 500%;
     text-decoration:blink;
@@ -113,4 +115,10 @@
     padding-right: 20px;
    
 }
-
+.two{
+    text-align:center;
+   color:black; 
+    font-size: 50%;
+    text-decoration:blink;
+    text-shadow:4px 4px 8px black;
+}
