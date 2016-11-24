@@ -21,6 +21,10 @@
     margin: 10px;
    
 }
+.background{
+    background-image:url("cycle.jpeg");
+}
+
 
 .panel2 {
     display: inline-block;
