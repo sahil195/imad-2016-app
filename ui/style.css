@@ -52,7 +52,7 @@
 }
 
 .dropdown {
-    position: fixed;
+    position: relative;
     display: inline-block;
 }
 
