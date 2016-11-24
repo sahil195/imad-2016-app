@@ -1,3 +1,7 @@
+.background{
+    background-image:url("cycle.jpeg");
+}
+
 .one{
     font-family: comic;
    
@@ -21,9 +25,7 @@
     margin: 10px;
    
 }
-.background{
-    background-image:url("cycle.jpeg");
-}
+
 
 
 .panel2 {
