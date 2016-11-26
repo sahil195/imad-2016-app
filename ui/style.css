@@ -113,8 +113,13 @@
     padding-top:60px;
     padding-left: 20px;
     padding-right: 20px;
-     background-image:url("about.jpg");
      
+     
+}
+
+.about{
+  background-image:url("about.jpg");
+         
 }
 .two{
     text-align:center;
