@@ -113,7 +113,8 @@
     padding-top:60px;
     padding-left: 20px;
     padding-right: 20px;
-   background-image:url("about.jpg");
+     background-image:url("about.jpg");
+     background-color:red;
 }
 .two{
     text-align:center;
