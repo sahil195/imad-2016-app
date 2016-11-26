@@ -119,13 +119,12 @@
 
 .about{
   background-image:url("about.jpg");
-  background:no repeat;
+  
    color: white;
    
     font-size: 16px;
     border: none;
-     height:120px;
-    width :1500px;
+     
          
 }
 .two{
