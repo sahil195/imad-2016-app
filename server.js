@@ -33,8 +33,8 @@ app.get('/ui/main.js', function (req, res) {
 app.get('/ui/webimg.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'webimg.jpg'));
 });
-app.get('/ui/cycle.jpeg', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'cycle.jpeg'));
+app.get('/ui/about,jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'about.jpg'));
 });
 
 
